@@ -1,0 +1,25 @@
+{
+    "books": [
+      {
+        "title": "wefw",
+        "author": "wef",
+        "category": "B",
+        "isbn": "34",
+        "id": 1
+      },
+      {
+        "title": "wef",
+        "author": "wef",
+        "category": "A",
+        "isbn": "23",
+        "id": 2
+      },
+      {
+        "title": "wefew",
+        "author": "wefewf",
+        "category": "A",
+        "isbn": "23",
+        "id": 3
+      }
+    ]
+  }
